@@ -1,2 +1,2 @@
 # exercise
-exercise repository
+exercise repository for learning git
